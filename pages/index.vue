@@ -3,10 +3,10 @@
     <div class='mt-20'>
       <Logo style='width:120px;margin:auto' />
       <h1 class='text-center text-3xl mt-10'>
-        Premier pas dans le game
+        Julrick Audet
       </h1>
       <h2 class='text-center'>
-        C'est un truc de malade frerou
+        Président
       </h2>
       
     </div>

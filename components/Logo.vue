@@ -1,5 +1,5 @@
 <template>
-<img src="/bob.jpg" alt="">
+<img src="/julrick.png" alt="">
 </template>
 <style>
 .NuxtLogo {
